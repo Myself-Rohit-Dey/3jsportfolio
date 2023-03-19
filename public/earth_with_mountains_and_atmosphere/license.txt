@@ -1,0 +1,11 @@
+Model Information:
+* title:	Earth with Mountains and Atmosphere
+* source:	https://sketchfab.com/3d-models/earth-with-mountains-and-atmosphere-97ecc0ebec5d41088811e993bc764a81
+* author:	CHRIS .capycoil (https://sketchfab.com/capycoil)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Earth with Mountains and Atmosphere" (https://sketchfab.com/3d-models/earth-with-mountains-and-atmosphere-97ecc0ebec5d41088811e993bc764a81) by CHRIS .capycoil (https://sketchfab.com/capycoil) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
