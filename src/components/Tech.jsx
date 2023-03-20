@@ -32,7 +32,7 @@ const Tech = () => {
       <p className={`${styles.sectionSubText} text-center`}>My tools</p>
       <h2 className={`${styles.sectionHeadText} text-center`}>Technologies</h2>
     </motion.div>
-    <div className='hidden sm:block flex flex-row flex-wrap justify-center gap-10 mt-20'>
+    <div className='hidden sm:flex flex-row flex-wrap justify-center gap-10 mt-20'>
       {technologies.map((technology) => (
         <div className='w-28 h-28' key={technology.name}>
           <BallCanvas icon={technology.icon} />
